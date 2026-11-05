@@ -1,0 +1,26 @@
+{
+  "id": "/saiyan-tracker",
+  "name": "Saiyan Power Level Tracker",
+  "short_name": "SaiyanTracker",
+  "description": "Daily Anime Habit Tracker & Scouter HUD",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
